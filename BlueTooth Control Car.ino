@@ -1,3 +1,6 @@
+//A LftMotor
+//B RightMotor
+
 int motorA1  = 10; 
 int motorA2  = 11;
 int motorB1 = 6; // motor b is to be reversed. B1 will go in pin b2
